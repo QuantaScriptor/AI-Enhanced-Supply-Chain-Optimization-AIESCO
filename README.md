@@ -7,7 +7,7 @@
 AI-Enhanced Supply Chain Optimization (AIESCO) is an AI-based algorithm designed to optimize supply chain operations and logistics.
 
 ## Offering
-This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [reece.dixon@quantascript.com](mailto:reece.dixon@quantascript.com).
+This project is available for purchase. For inquiries regarding pricing and licensing, please contact us at [quantascript@gmail.com](mailto:quantascript@gmail.com).
 
 ## Mathematical Equations
 
